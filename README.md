@@ -1,44 +1,48 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=AMN%20MNX&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20of%20things%2C%20end-to-end&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=AMENALLAH%20BEN%20HMIDA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20DevOps%20%7C%20DevSecOps&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://www.linkedin.com/in/amenallah-ben-hmida-/">
-  <img src="https://img.shields.io/badge/-Amenallah%20Ben%20Hmida-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="mailto:benhmidaamenallah7@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<img src="https://img.shields.io/badge/LeetCode-Top%203%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 <img src="https://komarev.com/ghpvc/?username=amenMNX&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS" />
 
 </div>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=600&lines=Engineering+student+%7C+Searching+for+my+PFE+%F0%9F%8E%93;Full-stack+dev+%E2%86%92+web+apps+%2B+APIs;DevOps+tinkerer+%E2%80%94+Docker+%2F+K8s+%2F+Grafana;Currently+exploring+Go+%26+terminal+UIs+%E2%9A%99%EF%B8%8F" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=700&lines=3rd-year+Software+Eng.+student+%40+ISET+Zaghouan+(DevOps+track);Backend+%E2%86%92+Django+%2F+FastAPI+%2F+Spring+Boot+%2F+Node.js;DevOps+%E2%86%92+Docker+%2F+Kubernetes+%2F+Argo+CD+%2F+Terraform;Searching+for+a+4-month+PFE+in+Backend%2C+DevOps+or+DevSecOps+%F0%9F%8E%93" />
 
 <br/><br/>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-### 👨‍💻 About me
+### 👨‍💻 Profile
 
-\`\`\`yaml
-name: Amenallah (AMN MNX)
-role: Software Engineering Student
-focus: Full-Stack Dev · DevOps · Cloud
-currently: Looking for my end-of-studies internship (PFE)
-build_philosophy: "ship it end-to-end — code, infra, and all"
-fun_fact: "I'd rather build a TUI than a GUI 🖥️"
-\`\`\`
+```yaml
+name: Amenallah Ben Hmida
+location: Ariana, Tunisia
+degree: Licence en Technologie Informatique — DevOps
+school: ISET Zaghouan (2024 – Present)
+seeking: "PFE (4 months) — Backend / DevOps / DevSecOps"
+languages: ["Arabic (native)", "French (B2 - TCF)", "English (C1 - EF SET)"]
+```
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-### 🎯 2026 focus
+### 🏅 Certifications
 
-- 🔎 Landing a **PFE** in a Full-Stack / DevOps role
-- ☸️ Deepening Kubernetes & observability skills
-- 🧩 Shipping side projects in Go & TypeScript
-- 📚 Deep-diving into system design & architecture
+- LFS158 — Introduction to Kubernetes
+- LFS101 — Introduction to Linux
+- Intro to AI on Microsoft Azure
+- DevOps Prerequisites Prep Course
 
 </td>
 </tr>
@@ -50,86 +54,83 @@ fun_fact: "I'd rather build a TUI than a GUI 🖥️"
 
 ### 🧰 Tech Arsenal
 
-<img src="https://skillicons.dev/icons?i=python,django,react,ts,js,odoo,docker,kubernetes,postgres,grafana,go,git,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,ts,js,django,fastapi,spring,nodejs,express,postgres,mongodb,mysql,redis,docker,kubernetes,terraform,githubactions,gitlab,nginx,grafana,prometheus,linux,git&theme=dark" />
+
+<sub>+ Helm · Kustomize · Argo CD · Trivy · Loki · JWT · RBAC · XSS/CSRF protection</sub>
 
 </div>
 
 <br/>
 
-<div align="center">
-
-### 📌 Projects worth a visit
-
-</div>
+### 💼 Experience
 
 <table width="100%">
-<tr>
-<td width="50%">
+<tr><td>
 
-**🚀 [MicroDeploy](https://github.com/amenMNX/MicroDeploy)**
+**🏥 Full-Stack ERP/CRM Intern — YOUR OS** <sub>· Jun – Sep 2026</sub>
 <br/>
-<sub>Kubernetes-native DevOps stack — API + worker + Postgres, monitored with Grafana & Prometheus</sub>
-<br/>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+Built an integrated management platform (patients, appointments, medical records, HR, payroll, billing, stock) — **Django REST Framework** backend + **React 19 / TypeScript** frontend. Implemented **JWT auth with HttpOnly cookies**, CSRF protection, **RBAC**, an isolated patient portal, and automated appointment scheduling + SLA tracking, all in a **Docker Compose** environment.
 
-</td>
-<td width="50%">
+</td></tr>
+<tr><td>
 
-**📡 [radar-monitoring-system](https://github.com/amenMNX/radar-monitoring-system)**
+**🔗 Odoo ERP & Backend Intern — SMART** <sub>· Dec 2025 – Feb 2026</sub>
 <br/>
-<sub>Real-time monitoring system</sub>
-<br/>
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+Built an attendance sync system between **Django** and **Odoo 18** (PIN resolution, clock-in/out events, break handling) over bidirectional **XML-RPC** and JSON endpoints. Developed Odoo modules for a multi-company front-office and employee birthdays, with automated personalized emails and Discuss notifications via scheduled jobs.
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+</td></tr>
+<tr><td>
 
-**🏥 [crm-erp-medical](https://github.com/amenMNX/crm-erp-medical)**
+**🛡️ Backend & Infrastructure Intern — Alyios Partners** <sub>· Sep – Oct 2026</sub>
 <br/>
-<sub>CRM/ERP tailored for the medical sector</sub>
-<br/>
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+Implemented **RBAC** and **XSS** protections (input sanitization, output escaping). Automated code validation with **GitHub Actions** (static analysis, tests, build) and configured **Nginx** as a reverse proxy / load balancer.
 
-</td>
-<td width="50%">
-
-**⏱️ [pointage-odoo-django-api](https://github.com/amenMNX/pointage-odoo-django-api)**
-<br/>
-<sub>Attendance/time-tracking API bridging Odoo and Django</sub>
-<br/>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**☕ [bean-beacon](https://github.com/amenMNX/bean-beacon)**
-<br/>
-<sub>TypeScript project</sub>
-<br/>
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-
-</td>
-<td width="50%">
-
-**🎂 [birthday_wish_Odoo_18](https://github.com/amenMNX/birthday_wish_Odoo_18)**
-<br/>
-<sub>Custom Odoo 18 module</sub>
-<br/>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-Odoo-714B67?style=flat-square&logo=odoo&logoColor=white"/>
-
-</td>
-</tr>
+</td></tr>
 </table>
 
 <br/>
 
 <div align="center">
 
-### 📊 Stats
+### 📌 Technical Projects
+
+</div>
+
+<table width="100%">
+<tr><td>
+
+**🚀 [MicroDeploy](https://github.com/amenMNX/MicroDeploy)** — Automated DevOps pipeline
+<br/>
+End-to-end CI/CD: code analysis, tests, multi-stage Docker builds, **Trivy** vulnerability scanning and publishing to **GHCR**. GitOps deployment with **Argo CD** (auto-sync, self-healing, ApplicationSets, Kustomize). Kubernetes infrastructure managed with **Terraform** + **Helm**. Full observability stack with **Prometheus, Grafana, Loki & Promtail**.
+<br/>
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/> <img src="https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/> <img src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+
+</td></tr>
+<tr><td>
+
+**☕ [Bean Beacon](https://github.com/amenMNX/bean-beacon)** — Coffee-shop discovery platform
+<br/>
+Full-stack geolocated café discovery app for Tunisia on **OpenStreetMap / Overpass** — proximity search, map view, reviews, favorites and venue submission. **REST API** built with **Node.js, Express, TypeScript & MongoDB**, with JWT auth, geospatial search and an admin area for user/café moderation. **Docker Compose** + **GitLab CI/CD** with tests, security audits, secret detection and monitoring (**Prometheus, Grafana, Node Exporter, cAdvisor**).
+<br/>
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/-GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
+
+</td></tr>
+<tr><td>
+
+**📡 [Radar Monitor](https://github.com/amenMNX/radar-monitoring-system)** — Radar station supervision
+<br/>
+Supervision interface built with **React 19, TypeScript & Vite** — dashboard to manage radars and review detections, infractions and vehicles. Data layer on **PostgreSQL** with **Redis** caching, **Docker Compose** containerization and **Nginx** reverse proxy. Full admin/user demo flows: registration, vehicle management, infraction lookup and simulated fine payment.
+<br/>
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+
+</td></tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=amenMNX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amenMNX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
@@ -145,5 +146,5 @@ fun_fact: "I'd rather build a TUI than a GUI 🖥️"
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer"/>
 
 <div align="center">
-<sub>Thanks for scrolling this far — let's build something 🚀</sub>
+<sub>📄 Open to a 4-month PFE in Backend / DevOps / DevSecOps — let's talk 🚀</sub>
 </div>
