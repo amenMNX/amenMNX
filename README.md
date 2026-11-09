@@ -15,7 +15,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=900&lines=3rd-year+Software+Eng.+student+%40+ISET+Zaghouan+(DevOps+track);Backend+%E2%86%92+Django+%2F+FastAPI+%2F+Spring+Boot+%2F+Node.js;DevOps+%E2%86%92+Docker+%2F+Kubernetes+%2F+Argo+CD+%2F+Terraform;Searching+for+a+4-month+PFE+in+Backend%2C+DevOps+or+DevSecOps+%F0%9F%8E%93" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=900&lines=3rd-year+Software+Eng.+student+%40+ISET+Zaghouan+(DevOps+track);Backend+%E2%86%92+Django+%2F+FastAPI+%2F+Spring+Boot+%2F+Node.js;DevOps+%E2%86%92+Docker+%2F+Kubernetes+%2F+Argo+CD+%2F+Terraform;Searching+for+a+4-month+PFE+in+Backend%2C+DevOps+or+FULLSTACK+%F0%9F%8E%93" />
 
 <br/><br/>
 
